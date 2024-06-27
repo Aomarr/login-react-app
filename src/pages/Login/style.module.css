@@ -10,6 +10,7 @@
     flex-basis: 1;
 }
 .content {
+    margin: auto;
     width: auto;
     display: flex;
     flex-direction: column;
