@@ -6,9 +6,6 @@ export default function Signup() {
   return (
     <>
         <div className={style.whole}>
-        <div className={style.image}>
-            <img src='../public/pic.png'></img>
-        </div>
         <div className={style.content}>
             <h1>Create Account<span>.</span></h1>
             <form>

@@ -30,9 +30,6 @@ export default function Login() {
   return (
     <>
     <div className={style.whole}>
-        <div className={style.image}>
-            <img src='../public/pic.png'></img>
-        </div>
         <div className={style.content}>
             <h1>Welcome Back<span>.</span></h1>
             <form onSubmit={handleSubmit}>
